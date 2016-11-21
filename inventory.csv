@@ -1,9 +1,9 @@
 hostname,ip,os
-eos-spine,10.0.0.11,eos
-eos-spine,10.0.0.12,eos
+eos-spine1,10.0.0.11,eos
+eos-spine2,10.0.0.12,eos
 csr1,10.0.0.51,ios
 csr2,10.0.0.52,ios
-nxos-spin,10.0.0.71,nxos
-nxos-spin,10.0.0.72,nxos
+nxos-spine1,10.0.0.71,nxos
+nxos-spine2,10.0.0.72,nxos
 vmx1,10.0.0.31,junos
 vmx2,10.0.0.32,junos
