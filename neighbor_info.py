@@ -4,7 +4,7 @@ import datetime
 from pprint import pprint
 from csv import DictReader
 from getpass import getpass
-from switch_class import NxSwitch, IosSwitch, EosSwitch
+from switch_classes import NxSwitch, IosSwitch, EosSwitch
 
 
 def main():
